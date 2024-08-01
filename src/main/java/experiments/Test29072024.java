@@ -19,7 +19,7 @@ public class Test29072024 {
         // System.out.println("Integer " + add(12,12)) ;
         //System.out.println("Double " + add(12.5,12.2)) ;
 
-
+//3uufsfsfedfefe3fef
 
 //        int[] numbers = {1,2,3,4,6,7};
 //        for (int i = 0; i<10 ; i++){
@@ -53,6 +53,11 @@ public class Test29072024 {
      * @param b my second param
      */
     public static void myMethod(int a, int b) {
+
+        int res = a + b;
+    }
+
+    public static void myMethod2(int a, int b) {
 
         int res = a + b;
     }
